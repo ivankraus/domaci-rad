@@ -1,1 +1,57 @@
-FL Studio (formerly known as FruityLoops) is a digital audio workstation (DAW) developed by the Belgian company Image-Line. FL Studio features a graphical user interface based on a pattern-based music sequencer. The program is available in three different editions for Microsoft Windows, including Fruity Edition, Producer Edition, and the Signature Bundle. Image-Line offers lifetime free updates to the program, which means customers receive all future updates of the software for free. Image-Line also develops FL Studio Mobile for iPod Touch, iPhone, iPad and Android devices. FL Studio can also be used as a VST instrument in other audio workstation programs and also functions as a ReWire client. Image-Line also offers other VST instruments and audio applications. FL Studio is used by hip hop and electronic musicians and DJs such as Martin Garrix, deadmau5, Afrojack, Avicii, Zardonic , Boi-1da, Seven Lions. 9th Wonder, Metro Boomin, Alan Walker, Southside, Mike WiLL Made-It, Dyro, Madeon, Slushii and Porter Robinson, among many others.
+FL Studio (formerly known as FruityLoops) is a digital audio workstation (DAW) developed by the Belgian company Image-Line. FL Studio features a graphical user interface based on a pattern-based music sequencer. The program is available in three different editions for Microsoft Windows, including Fruity Edition, Producer Edition, and the Signature Bundle. Image-Line offers lifetime free updates to the program, which means customers receive all future updates of the software for free. Image-Line also develops FL Studio Mobile for iPod Touch, iPhone, iPad and Android devices. FL Studio can also be used as a VST instrument in other audio workstation programs and also functions as a ReWire client. Image-Line also offers other VST instruments and audio applications. FL Studio is used by hip hop and electronic musicians and DJs such as Martin Garrix, deadmau5, Afrojack, Avicii, Zardonic , Boi-1da, Seven Lions. 9th Wonder, Metro Boomin, Alan Walker, Southside, Mike WiLL Made-It, Dyro, Madeon, Slushii and Porter Robinson, among many others. FL Studio can also be used as a VST instrument in other audio workstation programs and also functions as a ReWire client. Image-Line also offers other VST instruments and audio applications. FL Studio is used by hip hop and electronic musicians and DJs such as Martin Garrix, deadmau5, Afrojack, Avicii, Zardonic , Boi-1da, Seven Lions. 9th Wonder, Metro Boomin, Alan Walker, Southside, Mike WiLL Made-It, Dyro, Madeon, Slushii and Porter Robinson, among many others. FL Studio comes with a variety of plugins and generators (software synthesizers) written in the program’s own native plugin architecture. FL Studio also has support for third-party VST and DirectX plugins. The API has a built in wrapper for full VST, VST2, VST3, DX, and ReWire compatibility. Many of the plugins also function independently as standalone programs.
+
+   Dashboard – An included plugin which allows the creation of full automation-enabled interfaces for hardware MIDI devices. This allows FL Studio to control hardware from within the program. As of version 9.0 it also supports multiple controllers for different generators and effects.
+    Edison – Edison is a wave-form editor and recording tool in VST format, though Image-Line also produces a stand-alone version that does not require FL Studio to run. It is included in the Producer Edition and allows spectral analysis, convolution reverb, loop-recording, and loop-construction, as well as support for cue points.
+    Fruity Video Player – Included in the Bundle Edition, it allows the composition and synchronization of audio and video.
+    Deckadance (often referred to as DD) – a standalone DJ console and mixing program which can also be used in conjunction with FL Studio as a VST plugin. Initially released in May 2007, it was made available starting with the release of FL Studio 7 as an optional part of the download package. Acquired in 2015 by Gibson (Stanton/Cakewalk).
+    Maximus – Maximus is a multi-band audio limiter and compressor for mastering projects or tracks. It also serves as a noise gate, expander, ducker, and de-esser, and is included in the Bundle edition.
+    Riff Machine – Self-generates melodies in the piano roll using a randomly selected instrument, with parameter controls for shaping melodies. Introduced in version 9.
+    Fruity StereoShaper – Stereo processor with a mixer for left and right channels and their inverted equivalents and controls for channel delay and phase offset. Introduced in version 9.
+
+Virtual effects
+
+FL Studio is bundled with a variety of sound processing effects, including common audio effects such as chorus, compression, delay, flanger, phaser, reverb, equalization, vocoding, maximization, and limiting.
+
+    GrossBeat – A time, pitch, volume, and sidechain manipulation effect.
+    Hardcore Guitar Effects Suite – A multi-effects suite of plugins designed to resemble guitarists' stompboxes, which works for any instrument.
+    Juice Pack – A collection of proprietary plugins ported to VST format for use in other music hosts. The contents of this pack has changed since its release; at the time of this writing it includes the Delay, Delay Bank, EQUO, Flangus, LovePhilter, Multiband Compressor, Notebook, Parametric EQ, Parametric EQ 2, Spectroman, Stereo Enhancer, Vocoder, Wave Candy, and Wave Shaper plugins.
+    FruityVocoder – A real-time vocoder effect.
+    Vocodex – An advanced vocoder included in the Producer Edition of version 10.
+    NewTone – A pitch correction and time manipulation editor that allows for slicing, correcting, and editing vocals, instrumentals, and other recordings. Introduced as a demo with version 10.
+    Pitcher – Serves as a real-time pitch correction, manipulation, and harmonization tool for creating or correcting 4 voice harmonies under MIDI control from a keyboard or the piano roll. Introduced as a demo with version 10.
+    Patcher – Free plugin for chain effects that can then be quickly uploaded in new projects.
+    ZGameEditor Visualizer – Free visualization effect plugin based on the open source ZGameEditor, with movie rendering capability.
+
+Samplers
+
+    DirectWave Sampler – A software sampler that provides sample recording, waveform editing, and DSP effects (works for both VST and live instruments).
+    SliceX – A beat-slicing sampler for processing and re-arranging recorded drumloops, included in the Producer Edition.
+
+Synthesizers
+
+FL Studio is bundled with 32 generator plugins (October 2011). Some are demos. The list includes;
+
+    3XOsc – A generator with three programmable oscillators that subtractively produce bright sound with low memory use.
+    Autogun – A synthesizer with no controls and over 4 billion patches accessible by numbers only. The free version of Ogun.
+    Boo Bass – A monophonic bass guitar emulator.
+    Buzz Generator Adaptor – A wrapper for a large number of generators from Buzzmachines.com
+    Drumaxx – A physical modeling synthesizer designed to emulate and create the sound of percussion instruments.
+    DrumSynth Live – Allows for percussion synthesis. Included in all Editions.
+    DX10FM – Recreates a classic FM. Included in Fruity Edition and higher.
+    FL Slayer – FL Slayer is an electric guitar simulator originally developed by reFX which is equipped with a high quality amp and effects tools to allow for the realistic recreation of hundreds of guitar sounds and effects boxes. It is a VSTi plugin and is included in every version of FL Studio.
+    Groove Machine – a virtual drum machine
+    Harmless – Performs subtractive synthesis using an additive synthesis engine. Demo.
+    Harmor – Additive / subtractive synth with ability to encode pictures into music and resynthesis. Demo.
+    Morphine – An additive synthesizer that allows voices to be mixed and morphed under user control. Demo.
+    Ogun – An advanced programmable additive synthesizer chiefly for creating metallic timbres from 32000 harmonic choices. Demo.
+    PoiZone – A subtractive synthesizer with non-essential control removed for easy navigation.
+    Sakura – Sakura is a physical modeling synthesizer which is designed to emulate string instruments.
+    Sawer – A vintage modeling synthesizer which attempts to emulate Soviet Union era subtractive synthesizers.
+    SimSynth Live – Modeled after the classic analog synthesizers of the 1980s with three oscillators, with a programmable LFO section. Created by David Billen, Frederic Vanmol, and Didier Dambrin.
+    SynthMaker – FL Studio 8 Producer Edition introduced a version of SynthMaker, a popular graphical programming environment for synthesizers. It allows for the creation and sharing of new instruments without the need to understand programming code.
+    Sytrus – A software synthesizer. The first version was released with FL Studio version 4.5.1. The second version of Sytrus (introduced with FL Studio 6) comes with an array of presets covering many types of sounds. Sytrus uses a combination of subtractive synthesis, additive synthesis, FM synthesis, and ring modulation, allowing the production of sounds ranging from drum sets to organs. Sytrus provides a large number of adjustments and controls, including shape shifting, harmonics editing, EQ, a modulator, filters, reverb, delay, unison, and detune.
+    Toxic Biohazard – A virtual FM synthesizer similar to Sytrus, using FM and subtractive synthesis.
+    TS-404 - a 2-oscillator subtractive synthesizer designed to mimic the Roland TB-303 transistor bass module. Removed in FL Studio 12.
+    WASP/WASP XT – A 3 oscillator synthesizer created by Richard Hoffman.
+    FL Soundfont Player - An FL Studio add-on that gives power to load, play and render soundfonts (.sf2 files) in FL Studio.
+
